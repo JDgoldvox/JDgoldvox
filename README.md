@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on Game Jams!
 - 🤔 I’m looking for help with getting connections in the Game industry.
 - 💬 Ask me what my favourite games are and what I like so much about the community built around them.
-- 📫 links provided in website: [website]([https://jdgoldvox.com/#Contact-Details](https://traumacowgames.com/))
+- 📫 links provided in website: [website](https://traumacowgames.com/)
