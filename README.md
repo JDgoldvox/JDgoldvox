@@ -2,9 +2,50 @@
 
 ## I'm Wang Grundy!
 
-- 🔭 I’m currently working on my personal game, Bugbound, a game similar to terraria mixed with corekeeper elements.
-- 🌱 I’m currently learning the Python stack and AI/ML.
-- 👯 I’m looking to collaborate on Game Jams!
-- 🤔 I’m looking for help with getting connections in the Game industry.
-- 💬 Ask me what my favourite games are and what I like so much about the community built around them.
-- 📫 links provided in website: [website](https://traumacowgames.com/)
+- 🔭 Working on my personal game, Bugbound, a game similar to Terraria mixed with corekeeper elements.
+- 🌱 learning the Python stack and AI/ML.
+- 👯 Looking to collaborate on Game Jams!
+
+(__)          (__)          (__)          (__)      (__)
+(@@)_____     (OO)_____     (UU)_____     (XX)      (/\)
+(oo)    /|\   (oo)    /|\   (oo)    /|\   (oo)\     (oo)____
+  | |--/ | *    | |--/ | *    | |--/ | *   /   \    /  \    )\
+  w w w  w      w w w  w      w w w  w    w  £__)   \  /  e_\ *
+                                                     ww
+  Cow         Wow...!        Napping       Dead      Despairing
+
+
+(__)           __           (__)          (__)      (__)
+(**)_____    /(--)\____     (¬¬)_____     (-@)      (&&)
+(oo)    /|\   (oo)    /|\   (oo)    /|\   (oo)\     (oo)____
+  | |--/ | *    | |--/ | *    | |--/ | *   /   \    /  \    )\
+  w w w  w      w w w  w      w w w  w    w  £__)   \  /  e_\ *
+                                                     ww
+Sun-Glasses     Old           Sly         Winking    Redeyed
+
+
+(__)          (__)          (__)          (__)      (__)
+(++)_____     (-+)_____     (@@)_____     (@@)      (??)
+(oo)    /|\   (oo)    /|\   (OO)    /|\   (OO)\     (oo)____
+  | |--/ | *    | |--/ | *    | |--/ | *   /   \    /  \    )\
+  w w w  w      w w w  w      w w w  w    w  £__)   \  /  e_\ *
+                                                     ww
+ Witless      Halfwitted     Bull       SittingBull  Puzzled
+
+
+(__)          (__)          (__)          (__)      (__)
+(%%)_____     ($$)_____     (==)_____     (@~)      (@#)
+(oo)    /|\   (oo)    /|\   (oo)    /|\   (oo)\     (oo)____
+  | |--/ | *    | |--/ | *    | |--/ | *   /   \    /  \    )\
+  w w w  w      w w w  w      w w w  w    w  £__)   \  /  e_\ *
+                                                     ww
+Martian Cow?   Money-mad    Chinese Cow    Wink#2    Black eye
+
+
+(__)          (__)          (__)          (__)      (__)
+(##)_____     (!!)_____     (..)_____     (66)      (@@)
+(oo)    /|\   (oo)    /|\   (oo)    /|\   (oo)\     (oo)____
+  | |--/ | *    | |--/ | *    | |--/ | *   /   \    /  \    )\
+  w w w  w      w w w  w      w w w  w    w  £__)   \  /  e_\ *
+                                                     ww
+ Crazy        Surprised      Bored        Staring    Cow
