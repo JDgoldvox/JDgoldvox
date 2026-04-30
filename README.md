@@ -6,10 +6,11 @@
 - 🌱 learning the Python stack and AI/ML.
 - 👯 Looking to collaborate on Game Jams!
 
+```
 (__)          
 (@@)_____                  
 (oo)    /|\   
   | |--/ | * 
   w w w  w      
                                                     
-  Cow         
+  Cow```         
